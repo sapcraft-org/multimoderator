@@ -20,14 +20,9 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER ðŸ˜
 
 **[INVITE BOT](https://discord.com/oauth2/authorize?client_id=801266298029211668&permissions=8&scope=bot)**
 ### Support Discord Servers
-<a href="https://discord.gg/gQaptwMnyz"><img src="http://invidget.switchblade.xyz/WzMgKp4VMb"/></a>
-
-<br><br>
-</div>
-### stats
+<a href="https://discord.gg/WzMgKp4VMb"><img src="http://invidget.switchblade.xyz/WzMgKp4VMb"/></a>
 
 
-</a>
 
 ##copyright arcraftz community©¸ 2021 Automod v1
 all things reserved 2021 15 january by TOS guidence
