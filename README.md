@@ -29,5 +29,6 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER ðŸ˜
 
 </a>
 
-##copyright Â©ï¸ 2021 Automod v1
+##copyright arcraftz community©¸ 2021 Automod v1
+all things reserved 2021 15 january by TOS guidence
 
