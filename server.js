@@ -97,7 +97,7 @@ return message.channel.send(`**:x: Please dont mention anyone**`);
  }
   message.channel.startTyping();
 if (!message.content) return message.channel.send("Please say something.");
-fetch(`https://api.affiliateplus.xyz/api/chatbot?message=${encodeURIComponent(message.content)}&botname=${client.user.username}&ownername=KHANMANAN#1000`)
+fetch(`https://api.affiliateplus.xyz/api/chatbot?message=${encodeURIComponent(message.content)}&botname=${client.user.username}&ownername=[AUF]sapphire#3705`)
     .then(res => res.json())
     .then(data => {
         message.channel.send(`> ${message.content} \n <@${message.author.id}> ${data.message}`);
@@ -196,7 +196,7 @@ client.on("guildCreate", guild => {
 // Set the bot's online/idle/dnd/invisible status
 client.on("ready", () => {
     client.user.setStatus("online");
-    console.log("automodv12 beta is ready join support server https://dsc.gg/kmdevs")
+    console.log("automodv12 beta is ready join support server https://dsc.gg/WzMgKp4VMb")
 });
 
 
