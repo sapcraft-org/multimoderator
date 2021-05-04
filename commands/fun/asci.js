@@ -2,10 +2,10 @@ const discord = require("discord.js");
 const figlet = require("figlet"); // MAKE SURE TO INSTALL FIGLET PACKAGE OR CODE WONT WORK
 
 module.exports = {
-    name: "ascii",
+    name: "Nukoa",
     aliases: [],
     category: "fun",
-    usage: "ascii <text>",
+    usage: "Nukoa <text>",
     description: "Returns provided text in ascii format.",
     run: async (client, message, args) => {
 
