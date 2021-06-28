@@ -198,13 +198,13 @@ client.on("guildCreate", guild => {
 
 // Set the bot's online/idle/dnd/invisible status
 client.on("ready", () => {
-    client.user.setStatus("online");
-    console.log("automodv12 beta is ready join support server https://dsc.gg/WzMgKp4VMb")
+    client.user.setStatus("idle");
+    console.log("I am Cumming")
 });
 
 
 
 client.on("ready", () => {
-    client.user.setActivity(`qhelp |Servers Count - ${client.guilds.cache.size}`, { type: "WATCHING"})
+    client.user.setActivity(`.help |Servers Count - ${client.guilds.cache.size}`, { type: "WATCHING"})
 })
 client.login(process.env.TOKEN);
