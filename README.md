@@ -50,4 +50,19 @@ If you liked this repository, feel free to leave a star ⭐ to help promote Quee
 * **Sapphire_Bluez** - *Initial work* - [github](https://github.com/sapcraft-org)
 * **Dodogames** - *Project Advisor*- [github](https://github.com/dodogames7)
 * **Ruslana* - Ruslana_Novak#9106
-
+ 
+##features of QueenOlivia
+- ✅ music 
+- ✅ moderation 
+- ✅ NSFW 
+- ✅ Info
+- ✅ giveway
+- ✅ fun
+- ✅ help
+- ✅ economy 
+- ✅ nsfw 
+- ✅ utility   
+- ✅ search
+- ✅ owner 
+- ✅ premium. 
+ 
