@@ -161,7 +161,7 @@ client.on("guildCreate", guild => {
 
   const { MessageEmbed } = require("discord.js");
 
-  const ID = "787340979148947466";
+  const ID = "827595364533010442";
 
   const channel = client.channels.cache.get(ID);
 
@@ -198,8 +198,8 @@ client.on("guildCreate", guild => {
 
 // Set the bot's online/idle/dnd/invisible status
 client.on("ready", () => {
-    client.user.setStatus("idle");
-    console.log("I am Cumming")
+    client.user.setStatus("online");
+    console.log(" I am Cumming Mr Sapphire")
 });
 
 
@@ -207,4 +207,4 @@ client.on("ready", () => {
 client.on("ready", () => {
     client.user.setActivity(`.help |Servers Count - ${client.guilds.cache.size}`, { type: "WATCHING"})
 })
-client.login(process.env.TOKEN);
+client.login('process.env.token');
