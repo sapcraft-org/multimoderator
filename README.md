@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/sapcraft-org/QueenOlivia"><img src="./data/images/otoshimono.png"></a>
+  <a href="https://github.com/sapcraft-org/QueenOlivia"><img src="./system/images/QueenOlivia.png"></a>
   <br>
   QueenOlivia Discord Bot
   <br>
@@ -45,7 +45,9 @@ QueenOlivia is one of source it easy and afforrdable commands beside its has mul
 
 If you liked this repository, feel free to leave a star ⭐ to help promote otoshimono!
 
-## Peoples Who Helped Me to Create And Modified this
-**sapphire_bluez**[initial works](https://github.com/sapcraft-org)
-**dodogames**[project advisor](https://github.com/dodogames7)
-**ruslana_novak**[helped to modifiying](discord:Ruslana_Novak#9106)
+## Credits
+
+* **Sapphire_Bluez** - *Initial work* - [github](https://github.com/sapcraft-org)
+* **Dodogames** - *Project Advisor*- [github](https://github.com/dodogames7)
+* **Ruslana* - Ruslana_Novak#9106
+
