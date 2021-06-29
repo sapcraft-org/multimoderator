@@ -11,7 +11,7 @@ app.get("/", function (request, response) {
 
 // Request Listeners.
 var listener = app.listen(process.env.PORT, function () {
-    console.log("Your app is listening on port " + listener.address().port);
+    console.log("Coming Mister Sapphire " + listener.address().port);
 });
 setInterval(() => {
     http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`);
