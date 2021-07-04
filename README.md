@@ -41,7 +41,7 @@
 
 ## About
 
-QueenOlivia is one of source it easy and afforrdable commands beside its has multipurpose bot and you need to invite her to your Discord server using [this](https://discord.com/api/oauth2/authorize?client_id=832937425515970582&permissions=3489660897&scope=bot) link! Also, you can join the official [QueenOlivia Support Server](https://discord.gg/WcWT98sWvX) for all questions, suggestions, and assistance!
+QueenOlivia is one of source it easy and afforrdable commands beside its has multipurpose bot and you need to invite her to your Discord server using [this](https://discord.com/api/oauth2/authorize?client_id=832937425515970582&permissions=3489660897&scope=bot) link! Also, you can join the official [QueenOlivia Support Server](https://discord.gg/6dtx3z2fnN) for all questions, suggestions, and assistance!
 
 If you liked this repository, feel free to leave a star ⭐ to help promote QueenOlivia!
 
